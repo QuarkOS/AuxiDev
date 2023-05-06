@@ -11,7 +11,7 @@
 
 - 💬 My skills in Web-Development: **HTML5, CSS3, ReactJS, TailWindCSS**
 
-- 📫 Runtimes I use: **NodeJS**
+- 📫 Runtimes I use: **NodeJS, .NET**
 
 - ⚡ My most used Database is: **MongoDB**
 
