@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm A.U.X.I</h1>
-<h3 align="center">I'm a developer working on many projects! Most of them are still in heavy development but they could release any time!</h3>
+<h3 align="center">I'm a developer working on many projects! Most of them are still in heavy development but they might release any time!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auxidev&label=Profile%20views&color=0e75b6&style=flat" alt="auxidev" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🌱 Scripts and Programming Languages I'm learning: **JavaScript, C, C#, C++**
 
-- 💬 My skills in Web-Development: **HTML5, CSS3, ReactJS, ThreeJS**
+- 💬 My skills in Web-Development: **HTML5, CSS3, ReactJS, ThreeJS, SvelteKit**
 
 - 📫 Runtimes I use: **NodeJS, .NET**
 
 - ⚡ My most used Database is: **MongoDB**
 
-- 🌱 Software I use: **JIRA, Blender, Microsoft 365**
+- 🌱 Software I use: **JIRA, Blender**
 
 - 👯 Things I also know: **Microsoft VBA**
 
